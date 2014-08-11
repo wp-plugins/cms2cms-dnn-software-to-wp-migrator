@@ -13,6 +13,9 @@ If you wish to take your current DNN Software web project a step forward with Wo
 
 If you wish to take your current DNN Software web project a step forward with WordPress - CMS2CMS Migration Plugin will help you to cope with all the migration hassles and inconveniences in a totally automated manner.
 
+= Video =
+[youtube https://www.youtube.com/watch?v=4plb2FDMT_I]
+
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
 = The Following Entities are Currently Supported by CMS2CMS : =
