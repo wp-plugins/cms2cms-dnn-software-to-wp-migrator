@@ -35,6 +35,8 @@ If you wish to take your current DNN Software web project a step forward with Wo
 * Live Support - CMS2CMS provides 24/7 support with a human contact behind it to help users at any step of the migration path. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
+More info: http://www.cms2cms.com/supported-cms/dotnetnuke-to-wordpress-migration/
+
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between DNN Software and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
 == Installation ==
