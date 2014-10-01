@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: DNN Software to WordPress, DNN Software to WordPress migration, convert DNN Software to WordPress, migrate DNN Software to WordPress, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ If you wish to take your current DNN Software web project a step forward with Wo
 
 If you wish to take your current DNN Software web project a step forward with WordPress - CMS2CMS Migration Plugin will help you to cope with all the migration hassles and inconveniences in a totally automated manner
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
@@ -35,7 +35,7 @@ If you wish to take your current DNN Software web project a step forward with Wo
 * Live Support - CMS2CMS provides 24/7 support with a human contact behind it to help users at any step of the migration path. 
 * Free Demo Available - CMS2CMS provides its users with a possibility to see the website migration process in action and to estimate the results.
 
-More info: http://www.cms2cms.com/supported-cms/dotnetnuke-to-wordpress-migration/
+More info: http://www.cms2cms.com/supported-cms/dotnetnuke-to-wordpress-migration/?utm_source=DNN&utm_medium=Link&utm_campaign=WordPress_plugins
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between DNN Software and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
