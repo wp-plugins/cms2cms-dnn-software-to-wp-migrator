@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: DNN Software to WordPress Migrator  ===
 Contributors: cms2cms
-Tags: DNN Software to WordPress, DNN Software to WordPress migration, convert DNN Software to WordPress, migrate DNN Software to WordPress, images, plugin
+Tags: DNN Software to WordPress, DNN Software to WordPress migration, convert DNN Software to WordPress, migrate DNN Software to WordPress, DotNetNuke to WordPress, DotNetNuke to WordPress migration, convert DotNetNuke to WordPress, migrate DotNetNuke to WordPress, images, plugin
 Requires at least: 3.0.0
 Tested up to: 4.0
 Stable tag: 3.6.2
