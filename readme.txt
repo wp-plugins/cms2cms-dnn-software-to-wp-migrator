@@ -28,6 +28,8 @@ If you wish to take your current DNN Software web project a step forward with Wo
 
 = Additional Migration Options: =
 - clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration: =
 * Simplicity - CMS2CMS requires no special skills to get comfortable to how it works and therefore can be used by both developers and average users.  
